@@ -1,0 +1,180 @@
+﻿Fecha: 13-12-2018 12:24:34 UTC
+Sistema Operativo: Android
+Version Sistema Operativo: Array
+Navegador: Google Chrome
+Version Navegador: 71.0.3578.83
+Movil: Si
+IP: 83.45.81.238
+Veces descargado: 3
+continent_code: EU
+country_code: ES
+country_code3: ESP
+country_name: Spain
+region: 51
+city: Cadiz
+postal_code: 11006
+latitude: 36.529800415039
+longitude: -6.2947001457214
+<----------------------->
+Fecha: 13-12-2018 12:39:20 UTC
+Sistema Operativo: Windows
+Version Sistema Operativo: Windows 10
+Navegador: Google Chrome
+Version Navegador: 70.0.3538.110
+Movil: No
+IP: 79.157.137.148
+Veces descargado: 4
+continent_code: EU
+country_code: ES
+country_code3: ESP
+country_name: Spain
+region: 29
+city: Madrid
+postal_code: 28001
+latitude: 40.408599853516
+longitude: -3.6921999454498
+<----------------------->
+Fecha: 13-12-2018 12:59:21 UTC
+Sistema Operativo: Windows
+Version Sistema Operativo: Windows 7
+Navegador: Google Chrome
+Version Navegador: 70.0.3538.67
+Movil: No
+IP: 150.214.219.233
+Veces descargado: 5
+continent_code: EU
+country_code: ES
+country_code3: ESP
+country_name: Spain
+region: 51
+city: Granada
+postal_code: 18001
+latitude: 37.178398132324
+longitude: -3.5992000102997
+<----------------------->
+Fecha: 13-12-2018 13:04:41 UTC
+Sistema Operativo: Android
+Version Sistema Operativo: Array
+Navegador: Google Chrome
+Version Navegador: 70.0.3538.110
+Movil: Si
+IP: 66.249.93.43
+Veces descargado: 6
+continent_code: NA
+country_code: US
+country_code3: USA
+country_name: United States
+region: CA
+city: Mountain View
+postal_code: 94043
+latitude: 37.419200897217
+longitude: -122.05740356445
+<----------------------->
+Fecha: 13-12-2018 13:08:55 UTC
+Sistema Operativo: Android
+Version Sistema Operativo: Array
+Navegador: Google Chrome
+Version Navegador: 70.0.3538.110
+Movil: Si
+IP: 91.116.66.128
+Veces descargado: 7
+continent_code: EU
+country_code: ES
+country_code3: ESP
+country_name: Spain
+region: 58
+city: Pontevedra
+postal_code: 36003
+latitude: 42.430999755859
+longitude: -8.6443996429443
+<----------------------->
+Fecha: 13-12-2018 16:25:46 UTC
+Sistema Operativo: Windows
+Version Sistema Operativo: Windows 10
+Navegador: Google Chrome
+Version Navegador: 70.0.3538.110
+Movil: No
+IP: 79.157.137.148
+Veces descargado: 8
+continent_code: EU
+country_code: ES
+country_code3: ESP
+country_name: Spain
+region: 29
+city: Madrid
+postal_code: 28001
+latitude: 40.408599853516
+longitude: -3.6921999454498
+<----------------------->
+Fecha: 13-12-2018 16:27:44 UTC
+Sistema Operativo: Windows
+Version Sistema Operativo: Windows 10
+Navegador: Google Chrome
+Version Navegador: 70.0.3538.110
+Movil: No
+IP: 79.157.137.148
+Veces descargado: 9
+continent_code: EU
+country_code: ES
+country_code3: ESP
+country_name: Spain
+region: 29
+city: Madrid
+postal_code: 28001
+latitude: 40.408599853516
+longitude: -3.6921999454498
+<----------------------->
+Fecha: 13-12-2018 16:32:35 UTC
+Sistema Operativo: Windows
+Version Sistema Operativo: Windows 10
+Navegador: Google Chrome
+Version Navegador: 70.0.3538.110
+Movil: No
+IP: 79.157.137.148
+Veces descargado: 10
+continent_code: EU
+country_code: ES
+country_code3: ESP
+country_name: Spain
+region: 29
+city: Madrid
+postal_code: 28001
+latitude: 40.408599853516
+longitude: -3.6921999454498
+<----------------------->
+Fecha: 13-12-2018 22:28:25 UTC
+Sistema Operativo: Windows
+Version Sistema Operativo: Windows 7
+Navegador: 
+Version Navegador: 
+Movil: No
+IP: 62.42.140.105
+Veces descargado: 11
+continent_code: EU
+country_code: ES
+country_code3: ESP
+country_name: Spain
+region: 39
+city: Santander
+postal_code: 39001
+latitude: 43.464698791504
+longitude: -3.8043999671936
+<----------------------->
+Fecha: 14-12-2018 00:35:24 UTC
+Sistema Operativo: Windows
+Version Sistema Operativo: Windows 10
+Navegador: Google Chrome
+Version Navegador: 70.0.3538.110
+Movil: No
+IP: 186.235.8.80
+Veces descargado: 12
+continent_code: SA
+country_code: BR
+country_code3: BRA
+country_name: Brazil
+region: 15
+city: Caldas
+postal_code: 37780
+latitude: -21.886699676514
+longitude: -46.359199523926
+<----------------------->
