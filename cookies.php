@@ -35,4 +35,4 @@
 </ul>
 </p>
 
-<p>Si tiene dudas sobre esta política de cookies, puede contactar con fflns.com en info@nochesskyperas.com</p>
+<p>Si tiene dudas sobre esta política de cookies, puede contactar con fflns.com en incidenciaslns@gmail.com </p>
