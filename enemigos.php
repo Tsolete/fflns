@@ -1,4 +1,4 @@
-﻿<p><img src="imagenes/enemigos.png" alt="enemigos" align="right" width="50%" id="enemigos"/></p>
+﻿<p><img src="imagenes/enemigos.png" alt="enemigos" align="right" width="40%" id="enemigos"/></p>
 <p>El Juego tiene n-mil y un enemigos diferentes sin contar los enemigos finales que son un montón más. Cada enemigo tiene una forma de única de atacar y unos puntos débiles específicos.</p>
 <p>Para conocerlos mejor escoge una opción de abajo.</p>
 <br>
