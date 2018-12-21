@@ -53,21 +53,24 @@ $personaje = $_GET['personaje'];
 if ($personaje) {
     include_once "$personaje.php";
  } ?>
- 
- <script>
- 
- function img_onClick(sender){
-	 localStorage.setItem("itemSelected",$(sender).find("img")[0].src);
- }
- 
- function img_onMouseOut(sender, url){
-	 if(!$(sender).hasClass("fixed"))
-		 sender.src = url;
- }
- 
- $(function() {
-	 var imgSelected = $("img[src$='"+localStorage.getItem("itemSelected").replace("http://fflns.sytes.net/fflns/","").replace("_d.png","_b.png")+"']");
-	$(imgSelected).addClass("fixed");
-});
- </script>
 </div>
+
+<script>
+
+function img_onClick(sender){
+	localStorage.setItem("itemSelected",$(sender).find("img")[0].src);
+}
+ 
+function img_onMouseOut(sender, url){
+	if(!$(sender).hasClass("fixed"))
+		sender.src = url;
+}
+
+$(function() {
+	var imgSelected = $("img[src$='"+localStorage.getItem("itemSelected").replace("http://<?php echo $_SERVER['SERVER_NAME']; ?>/fflns/","").replace("_d.png","_b.png")+"']");
+	if(imgSelected){
+		$(imgSelected).addClass("fixed");
+		imgSelected[0].src = $(imgSelected)[0].src.replace("b.png","d.png");
+	 }
+});
+</script>
